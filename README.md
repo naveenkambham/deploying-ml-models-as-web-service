@@ -1,4 +1,4 @@
-# Flasking-ML-Models
+## flasking machine learning models
 Using FLask to creat a Web API for a trained machine learning model to persist the model learning state and use it for predictions on the go. Since the focus of this project is to demonstrate the model integration to a website, a basic support vector machines model for predicting iris type is used.
 
 Major steps involved are:
