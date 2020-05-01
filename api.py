@@ -8,7 +8,7 @@ app = Flask('IrisTestModel')
 
 
 #url to redirect the method call
-@app.route('/predict',methods=['POST'])
+@app.route('/python-api-model/predict',methods=['POST'])
 def predict():
     if model:
         try:
